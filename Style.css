@@ -1,0 +1,87 @@
+body,h1,h2,h3,p{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title_components{
+    margin-right: 0.5cm;
+}
+a1{
+    color: white;
+    padding: 2rem;
+}
+header{
+    background-color: hsl(263, 70%, 18%);
+    color: white;
+    height: 1.5cm;
+}
+h1{
+    font-size: 2rem;
+}
+#projects,#contact{
+    color: white;
+    padding: 2rem;
+}
+role{
+    font-size: 1cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+name{
+    font-size: 1.5cm;
+    font-family: Impact, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#fsd{
+    color: rgb(248, 56, 56);
+    
+}
+#main{
+    display: flex;
+}
+#icon{
+    margin-left: 1cm;
+}
+.icon{
+    display: flex;
+    height: 2cm;
+    width: 2cm;
+    margin-left: 1cm;
+    margin-top: 1cm;
+}
+#icons{
+    display: flex;
+
+}
+#pic{
+    margin-right: 3%;
+   display: inline-block;
+    margin-top: 3cm;
+    height: 10cm;
+    width: 10cm;
+}
+#about{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 6%;
+    display: inline-block;
+    color: white;
+    font-size: 0.8cm;
+    margin-top: 2cm;
+
+}
+#title_components{
+    text-decoration: none; 
+    color: white;
+}
+img{
+    width: 100%;
+}
+.project{
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+html{
+    background-color: rgb(6, 42, 73);
+}
